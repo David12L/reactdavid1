@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactdavid1/static/css/main.082dee1f.css",
+    "main.js": "/reactdavid1/static/js/main.8d98ad7f.js",
+    "static/js/787.a830d49a.chunk.js": "/reactdavid1/static/js/787.a830d49a.chunk.js",
+    "index.html": "/reactdavid1/index.html",
+    "main.082dee1f.css.map": "/reactdavid1/static/css/main.082dee1f.css.map",
+    "main.8d98ad7f.js.map": "/reactdavid1/static/js/main.8d98ad7f.js.map",
+    "787.a830d49a.chunk.js.map": "/reactdavid1/static/js/787.a830d49a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082dee1f.css",
+    "static/js/main.8d98ad7f.js"
+  ]
+}
